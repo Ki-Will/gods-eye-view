@@ -10,3 +10,6 @@ output/
 .DS_Store
 .gstack/
 3d-models/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
